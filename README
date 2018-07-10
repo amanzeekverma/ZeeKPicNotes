@@ -16,8 +16,9 @@ App Version : 1
 NEGATIVES:
 * Hard coded 4 location currently exists.
 * Does not ask to "CONFIRM" and just keeps on saving pic/snaps
+* Does not let you browse the gallery
 
-Next Big Sprint:
+UP NEXT:
 * Fix Negatives
 * Dynamically add new albums from UI.
 * Display existing albums on the phone.
