@@ -1,0 +1,25 @@
+ZEEK PIC NOTES
+=============
+Android App
+
+Idea of the app is to take notes/pics but not clutter the phone's album where you keep important family/events pictures. The study/work notes/ to-do tasks / quick contact snap/ whiteboard pic should be at a separate location instead of being at the sharing the same family space.
+
+
+A Simple App, makes use of:
+1. Camera2 services
+2. Takes pictures and save it (1024X768) to one of the selected albums in personal gallery
+
+Email bugs : avD.ZeeK@gmail.com
+
+App Version : 1
+
+NEGATIVES:
+* Hard coded 4 location currently exists.
+* Does not ask to "CONFIRM" and just keeps on saving pic/snaps
+
+Next Big Sprint:
+* Fix Negatives
+* Dynamically add new albums from UI.
+* Display existing albums on the phone.
+
+Aman Verma
